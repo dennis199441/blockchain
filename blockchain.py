@@ -28,4 +28,9 @@ class BlockChain:
 			print("Previous Hashcode: %s" % block.prev_hash)
 			print("Data: %s" % block.transaction_data)
 			print("Hashcode: %s" % block.hashcode)
+<<<<<<< HEAD
 			print("================================================================================")
+=======
+			print("=====================================================")
+
+>>>>>>> cf045df6614baac9a36783792df238fca0c1951b
