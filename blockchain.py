@@ -28,12 +28,4 @@ class BlockChain:
 			print("Previous Hashcode: %s" % block.prev_hash)
 			print("Data: %s" % block.transaction_data)
 			print("Hashcode: %s" % block.hashcode)
-			print("=====================================================")
-
-
-chain = BlockChain()
-chain.create_next_block('first')
-chain.create_next_block('second')
-chain.create_next_block('third')
-
-chain.print_chain()
+			print("================================================================================")
