@@ -16,6 +16,6 @@ Parameters objects define the necessary data for Block objects
 Block receives Parameters object which stores data.
 Once Block object is instantiated, it generates its hashcode.
 
-## BlockChain
-BlockChain links Blocks together. It stores blocks in a list.
+## Blockchain
+Blockchain links Blocks together. It stores blocks in a list.
 Once BlockChain object is instantiated, it creates the genesis block and the block list.
